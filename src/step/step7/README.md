@@ -31,7 +31,7 @@ const element = <App name="world" />;
 console.log(element);
 ```
 
-![Step6FunctionElement](../../assets/step6-functionelement.png)
+![Step6FunctionElement](https://github.com/JessYan0913/own-react/blob/master/src/assets/step6-functionelement.png)
 
 可见函数式组件与简单组件的不同有：
 

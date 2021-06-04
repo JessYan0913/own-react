@@ -64,7 +64,7 @@ function performUnitOfWork(nextUnitOfWork) {
 
 对应的`Fiber`树会是这样：
 
-![StepFiberTree](../../assets/step4-fibertree.png)
+![StepFiberTree](https://github.com/JessYan0913/own-react/blob/master/src/assets/step4-fibertree.png)
 
 `Fiber`树的每个节点都是一个 DOM 元素，当渲染完一个节点后，如果该节点存在子节点，那该子节点就是下一个要渲染的元素。
 

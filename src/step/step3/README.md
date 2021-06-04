@@ -20,7 +20,7 @@ const container = document.getElementById("root");
 ReactDOM.render(element, container);
 ```
 
-![ReactRenderHello](../../assets/step3-hello.png)
+![ReactRenderHello](https://github.com/JessYan0913/own-react/blob/master/src/assets/step3-hello.png)
 
 ## 2.`ReactDOM.render`做了什么？
 
@@ -94,7 +94,7 @@ const container = document.getElementById("root");
 Didact.render(element, container);
 ```
 
-![DidactRenderCssElement](../../assets/step3-css.png)
+![DidactRenderCssElement](https://github.com/JessYan0913/own-react/blob/master/src/assets/step3-css.png)
 
 ## 4.使用 jsx 的方式编写 Didact 组件
 
