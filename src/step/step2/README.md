@@ -26,7 +26,7 @@ const element = React.createElement(
 console.log(element);
 ```
 
-![elementImg](../../assets/step2-element.png)
+![elementImg](https://github.com/JessYan0913/own-react/blob/master/src/assets/step2-element.png)
 
 ## 2.自定义`createElement`
 
