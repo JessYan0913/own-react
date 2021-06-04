@@ -2,7 +2,7 @@
 
 ## 1.存在的问题
 
-在[《三、组件渲染》]()中实现了从组件到渲染的逻辑`Didact.render`，但是这里的`render`逻辑存在一些问题。
+在[《三、组件渲染》](https://github.com/JessYan0913/own-react/tree/master/src/step/step3)中实现了从组件到渲染的逻辑`Didact.render`，但是这里的`render`逻辑存在一些问题。
 
 在`render`中使用了递归调用的方式渲染 DOM，当`render`一旦开始，直到整个 DOM 渲染完成才会停止。如果需要渲染很大的 DOM 树，`render`就会长时间占用主线程。在此期间浏览器无法处理其他主线程逻辑，这是不应该的。
 
