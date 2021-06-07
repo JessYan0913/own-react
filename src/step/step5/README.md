@@ -1,5 +1,7 @@
 # 五、提交 Fiber 树
 
+为什么选择了`Fiber`而不是`DIFF`算法？可以参考大神的另外一篇文章[《Fibre-递增对比》](https://github.com/chinanf-boy/didact-explain/blob/master/5.Fibre.readme.md#51-%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E6%8B%A9fiber)。
+
 ## 1.存在问题
 
 在[《四、优化`render`逻辑》](https://github.com/JessYan0913/own-react/tree/master/src/step/step4)中，将渲染 DOM 的工作拆分成了小单元。并利用浏览器空闲时间渲染，但是如果每次渲染完一个小单元后，浏览器中断了渲染逻辑，将展示出不完整的画面。

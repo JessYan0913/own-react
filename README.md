@@ -2,7 +2,7 @@
 
 2021 年 6 月 4 日
 
-学习 _Rodrigo Pombo_ 的[《Build your own React》](https://pomb.us/build-your-own-react/) 的一本学习笔记，跟随文章一步步写成一个小的 React。笔记步骤并没有完全按照[《Build your own React》](https://pomb.us/build-your-own-react/) 中的步骤划分。
+学习 _Rodrigo Pombo_ 的[《Build your own React》](https://pomb.us/build-your-own-react/) 的一本学习笔记，跟随文章一步步写成一个小的 React（16.8）。笔记步骤并没有完全按照[《Build your own React》](https://pomb.us/build-your-own-react/) 中的步骤划分。
 
 [《开始》](https://github.com/JessYan0913/own-react/tree/master/src/step/step0)
 
